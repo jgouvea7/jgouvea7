@@ -1,20 +1,20 @@
 <h1 align="center">Jonnathas</h1>
 
 <p align="center">
-  💻 Backend Developer
+  Backend Developer
 </p>
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🔥 Foco em **backend**, mas explorando **Data Analytics**
+## Sobre mim
+- Cursando **Análise e Desenvolvimento de Sistemas**
+- Foco em **backend**, mas explorando **Data Analytics**
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-### 💻 **Linguagens & Frameworks**
+### **Linguagens & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📫 Como me encontrar?
+## Como me encontrar?
 📌 **LinkedIn**: [linkedin.com/in/jgouvea7](https://www.linkedin.com/in/jgouvea7/)  
 📌 **Portfólio**: [https://aegdae.github.io/portfolio/index.html](https://aegdae.github.io/portfolio/index.html)  
 📌 **Email**: [jonnathasg@gmail.com](mailto:jonnathasg@gmail.com)  
