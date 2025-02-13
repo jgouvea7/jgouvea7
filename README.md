@@ -1,9 +1,5 @@
 <h1 align="center">Jonnathas</h1>
 
-<p align="center">
-  Backend Developer
-</p>
-
 ---
 
 ## Sobre mim
