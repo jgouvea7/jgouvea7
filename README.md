@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Jonnathas</h1>
+<h1 align="center">Jonnathas</h1>
 
 <p align="center">
   💻 Backend Developer
