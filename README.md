@@ -19,8 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flask_logo.svg/1200px-Flask_logo.svg.png" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FastAPI_logo.svg/600px-FastAPI_logo.svg.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </p>
 
