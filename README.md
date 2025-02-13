@@ -20,14 +20,7 @@ Com um foco em **Python**, **SQL** e **APIs**, estou em constante aprendizado e 
 ---
 
 ## Como me encontrar?
-<p align="center">
-  <a href="https://www.linkedin.com/in/jgouvea7" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="50"/>
-  </a>
-  
-  <a href="mailto:jonnathasg@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="50"/>
-  </a>
-</p>
+**LinkedIn**: [jgouvea7](https://www.linkedin.com/in/jgouvea7/)  
+**Email**: [jonnathasg](mailto:jonnathasg@gmail.com)
 
 ---
