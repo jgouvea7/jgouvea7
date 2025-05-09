@@ -1,10 +1,9 @@
 <h1 align="center">Olá, sou o Jonnathas</h1>
 
 ## Sobre mim
-Sou **estudante de Análise e Desenvolvimento de Sistemas** com paixão por **backend** e explorando o mundo de **Data Analytics**. Estou sempre em busca de novas tecnologias e melhores práticas para criar soluções eficientes e escaláveis.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend e interesse constante por novas tecnologias. Estou sempre buscando evoluir minhas habilidades e aplicar boas práticas para criar soluções eficientes e escaláveis.
 
-Com um foco em **Python**, **SQL** e **APIs**, estou em constante aprendizado e adaptação ao cenário tecnológico para entregar soluções de impacto.
-
+Tenho experiência com Java, TypeScript, Python, C, SQL e APIs, e estou em constante aprendizado para acompanhar as demandas do cenário tecnológico atual.
 ---
 
 ## Tecnologias
