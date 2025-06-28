@@ -3,7 +3,7 @@
 ## Sobre mim
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend.
 
-Tenho experiência com Java, TypeScript, Python, C, SQL, NoSQL e APIs, e estou em constante aprendizado para acompanhar as demandas do cenário tecnológico atual.</p>
+Tenho experiência com Java, TypeScript, Python, SQL, NoSQL e APIs, e estou em constante aprendizado para acompanhar as demandas do cenário tecnológico atual.</p>
 ---
 
 ## Tecnologias
@@ -11,9 +11,9 @@ Tenho experiência com Java, TypeScript, Python, C, SQL, NoSQL e APIs, e estou e
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="43" height="43"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="43" height="43"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="43" height="43"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="43" height="43"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="43" height="43"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="43" height="43"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="43" height="43"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="43" height="43"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="43" height="43"/>
