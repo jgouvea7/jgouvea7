@@ -32,7 +32,7 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aegdae&layout=compact&bg_color=2f2f2f&text_color=ffffff&cache_bust=202507061800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aegdae&layout=compact&bg_color=2f2f2f&text_color=ffffff&cache_bust=20261800)
 
 
 ---
