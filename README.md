@@ -19,8 +19,6 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="43" height="43" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="43" height="43" alt="Spring Boot"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="43" height="43"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="43" height="43" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="43" height="43" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="43" height="43" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="43" height="43"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="43" height="43" alt="PostgreSQL"/>
