@@ -10,6 +10,7 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
 
 ---
 
+
 ## Tecnologias
 
 <p align="left">
@@ -29,6 +30,11 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="43" height="43" alt="Git"/>
 </p>
 
+## Certificações
+
+<a href="https://www.cloudskillsboost.google/public_profiles/bb127180-a945-4dfc-bd00-d964a4fa890e/badges/16907479">
+  <img src="https://cdn.qwiklabs.com/G%2Fp0DGxOMfSLtHNXyliZpo9EDcKO3fNTSOTWGwEAlus%3D" alt="Google Cloud Badge" width="110"/>
+</a>
 
 ---
 
