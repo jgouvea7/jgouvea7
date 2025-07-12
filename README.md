@@ -12,7 +12,6 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
 </p>
 
 
-
 ## Tecnologias
 
 <p align="center">
@@ -32,10 +31,23 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
-<h1></h1>
+## Skills GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegdae&layout=compact&bg_color=2f2f2f&text_color=ffffff&cache_bust=20800" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegdae&layout=compact&bg_color=2E3440&text_color=D8DEE9&hide_border=true&cache_bust=20800" alt="Top Langs" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aegdae&theme=nord&hide_border=true&border_radius=6"  width="423" alt="GitHub Streak" /></a>
+</p>
+
+
+</p>
+
+
+## Certificações
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/bb127180-a945-4dfc-bd00-d964a4fa890e/badges/16907479">
+    <img src="https://cdn.qwiklabs.com/G%2Fp0DGxOMfSLtHNXyliZpo9EDcKO3fNTSOTWGwEAlus%3D" alt="Google Cloud Badge" width="130"/>
+  </a>
 </p>
 
 
