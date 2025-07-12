@@ -1,9 +1,10 @@
-<h1 align="center">Olá, sou o Jonnathas</h1>
+<h2 align="center">Olá, sou o Jonnathas</h2>
 
-<h2 align="center">Desenvolvedor Backend</h2>
+<h3 align="center">Desenvolvedor Backend</h3>
 
+<h1></h1>
 
-## Sobre mim
+### Sobre mim
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas com foco em backend. Gosto de transformar ideias em aplicações que realmente funcionam, com código limpo, boas práticas e atenção à arquitetura.
 
 Tenho aprendido bastante desenvolvendo projetos pessoais, onde venho aplicando linguagens como TypeScript, Python e Java, além de frameworks como NestJS, Spring Boot e Flask. No frontend, já explorei ferramentas como Angular e Next.js. Tenho boa experiência com bancos de dados relacionais e não relacionais (PostgreSQL e MongoDB), e venho ganhando familiaridade com containers Docker e mensageria com Kafka.
@@ -12,10 +13,10 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
 </p>
 
 
-## Tecnologias
-
+### Skills
+***
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="=45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
@@ -31,27 +32,16 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
-## Skills GitHub
+### Stats GitHub
 
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aegdae&theme=nord&hide_border=true&border_radius=6"  width="419" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegdae&layout=compact&bg_color=2E3440&text_color=D8DEE9&hide_border=true&cache_bust=20800" alt="Top Langs" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aegdae&theme=nord&hide_border=true&border_radius=6"  width="423" alt="GitHub Streak" /></a>
 </p>
 
 
-</p>
-
-
-## Certificações
-
-<p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/bb127180-a945-4dfc-bd00-d964a4fa890e/badges/16907479">
-    <img src="https://cdn.qwiklabs.com/G%2Fp0DGxOMfSLtHNXyliZpo9EDcKO3fNTSOTWGwEAlus%3D" alt="Google Cloud Badge" width="130"/>
-  </a>
-</p>
-
-
-## Contato
+### Contato
+***
 <p align="center">
   <a href="https://www.linkedin.com/in/jgouvea7/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40" />
