@@ -7,7 +7,7 @@
 ### Sobre mim
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas com foco em backend. Gosto de transformar ideias em aplicações que realmente funcionam, com código limpo, boas práticas e atenção à arquitetura.
 
-Tenho aprendido bastante desenvolvendo projetos pessoais, onde venho aplicando linguagens como TypeScript, Python e Java, além de frameworks como NestJS, Spring Boot e Flask. No frontend, já explorei ferramentas como Angular e Next.js. Tenho boa experiência com bancos de dados relacionais e não relacionais (PostgreSQL e MongoDB), e venho ganhando familiaridade com containers Docker e mensageria com Kafka.
+Tenho aprendido bastante desenvolvendo projetos pessoais, onde venho aplicando linguagens como TypeScript, Python e Java, além de frameworks como NestJS, Spring Boot, Flask e FastAPI. No frontend, já explorei ferramentas como Angular e Next.js. Tenho boa experiência com bancos de dados relacionais e não relacionais (PostgreSQL e MongoDB), e venho ganhando familiaridade com containers Docker e mensageria com Kafka.
 
 Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e colocando a mão no código para aprender de forma prática e constante.
 </p>
