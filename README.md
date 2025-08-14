@@ -21,9 +21,11 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI Logo" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular"/>
 </p>
 <p align="center">
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask Logo" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
@@ -35,7 +37,7 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgouvea7&layout=compact&bg_color=2E3440&text_color=D8DEE9&hide_border=true&cache_bust=202820" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgouvea7&layout=compact&bg_color=2E3440&text_color=D8DEE9&hide_border=true&cache_bust=20322820" alt="Top Langs" />
 </p>
 
 
