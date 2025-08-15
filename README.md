@@ -38,7 +38,7 @@ Estou sempre buscando evoluir como desenvolvedor, estudando novas tecnologias e 
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgouvea7&layout=compact&bg_color=2E3440&text_color=D8DEE9&hide_border=true&cache_bust=20322820" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgouvea7&layout=compact&bg_color=2E3440&text_color=D8DEE9&hide_border=true&cache_bust=2032820" alt="Top Langs" />
 </p>
 
 
