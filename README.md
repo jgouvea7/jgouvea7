@@ -2,8 +2,7 @@
 
 <h3 align="center">Desenvolvedor Backend</h3>
 
-### Skills
-***
+<h2>Skills</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
