@@ -1,6 +1,4 @@
-<h2 align="center">Olá, sou o Jonnathas</h2>
-
-<h3 align="center">Desenvolvedor Backend</h3>
+<h2 align="center">Desenvolvedor Backend</h2>
 
 <h2>Skills</h2>
 <p>
