@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2>Backend Engineer</h2>
+  <h2>Backend Software Engineer</h2>
   <p>
     Backend Engineer building scalable REST APIs with 
     <strong>Python</strong>, <strong>Java</strong>, and <strong>TypeScript</strong>. 
