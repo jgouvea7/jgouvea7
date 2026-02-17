@@ -1,19 +1,25 @@
-<h2 align="center">Desenvolvedor Backend</h2>
+<div align="center">
+  
+  <h2>Backend Engineer</h2>
+  <p>
+    Backend Engineer building scalable REST APIs with 
+    <strong>Python</strong>, <strong>Java</strong>, and <strong>TypeScript</strong>. 
+    Experienced with SQL and NoSQL databases, Docker, and modern front-end applications.
+  </p>
 
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI Logo" width="45" height="45"/>
-  <img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
+  <h3>Skills</h3>
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" style="margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" style="margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" height="32" style="margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" style="margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" height="32" style="margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" style="margin: 0 8px;"/>
+
+  <h3>Contact</h3>
+
+  <a href="https://www.linkedin.com/in/jgouvea7">LinkedIn</a>
+  ·
+  <a href="mailto:jonnathasg@gmail.com">Email</a>
+
+</div>
